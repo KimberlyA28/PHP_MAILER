@@ -79,7 +79,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <p><strong>Asunto:</strong> $asunto</p>
                 <p><strong>Contenido:</strong></p>
                 <p>$contenido</p>
-                <a href='https://github.com/TuUsuario/TuRepositorio' class='btn btn-primary' target='_blank'>Ver detalles</a>
+                <a href='https://github.com/KimberlyA28/PHP_MAILER' class='btn btn-primary' target='_blank'>Ver detalles</a>
             </div>
             <div class='footer'>
                 <p>&copy; 2024 Kimberly Altamirano - Senati. Todos los derechos reservados.</p>
